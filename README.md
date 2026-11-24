@@ -14,7 +14,7 @@ by the Claude app and is ignored.
 
 ## Skills
 
-| Skill | Use it to |
-|---|---|
-| [contract-coverage-map](contract-coverage-map/SKILL.md) | Map an endpoint's input contracts to the tests that cover them, as a Mermaid diagram |
-| [testing-checklist](testing-checklist/SKILL.md) | Check what a new feature needs tested for thorough coverage |
+| Skill | Status | Use it to |
+|---|---|---|
+| [contract-coverage-map](contract-coverage-map/SKILL.md) | Mature: used on real endpoints | Map an endpoint's input contracts to the tests that cover them, as a Mermaid diagram |
+| [testing-checklist](testing-checklist/SKILL.md) | Draft: the behavior-test layout is still open | Check what a new feature needs tested for thorough coverage |
